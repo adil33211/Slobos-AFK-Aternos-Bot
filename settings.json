@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "licosmp.aternos.me",
-    "port":  14618,
-    "version": "",
+    "port": 14618,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
